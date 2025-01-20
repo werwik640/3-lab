@@ -1,23 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e9a5f5bf-81d1-499c-9432-fa209143137b" name="Changes" comment="" />
+    <list default="true" id="0d713796-3667-489d-b4bf-177a351961ec" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
+  "associatedIndex": 0
 }]]></component>
-  <component name="ProjectId" id="2rtmUpHCLZIZc7nGY4BB71UdzC1" />
+  <component name="ProjectId" id="2rtn8QLMV06mhlwplfT6XYJsU5Q" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -26,17 +19,17 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/User/IdeaProjects/3 lab/src/Main.java"
+    "onboarding.tips.debug.path": "C:/Users/User/IdeaProjects/Cesar/src/Main.java"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e9a5f5bf-81d1-499c-9432-fa209143137b" name="Changes" comment="" />
-      <created>1737386764358</created>
+      <changelist id="0d713796-3667-489d-b4bf-177a351961ec" name="Changes" comment="" />
+      <created>1737387079399</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1737386764358</updated>
+      <updated>1737387079399</updated>
     </task>
     <servers />
   </component>
